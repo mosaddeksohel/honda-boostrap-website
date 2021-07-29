@@ -1,0 +1,22 @@
+/* google font */
+
+/* css */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-color: #264653;
+}
+.text{
+    color: #E0E0E0;
+}
+.best-bike{
+    color: #E76F51;
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
+.clients{
+    color: #E76F51;
+}
